@@ -1,4 +1,4 @@
-# ImranKhanAIBot
+# Imran Khan AI Bot
 
 Welcome to our AI bot project, inspired by the functionality of CallAnnie.ai, where we’ve brought a unique conversational experience for users by creating an interactive AI model with the avatar of Imran Khan.
 In its initial phase, the bot will engage users in English, creating an experience of a virtual conversation with Imran Khan. The bot processes user queries and generates relevant responses, leveraging OpenAI’s advanced language model, supplemented by other premium and open-source APIs.
